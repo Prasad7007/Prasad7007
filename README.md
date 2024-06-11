@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm Prasad, a passionate machine learning enthusiast and an aspiring MLOps engineer. My journey in the world of data and AI has been exhilarating, and I'm excited to share my projects and learnings with you.
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/artificial-intelligence-flat-text-composition-with-design-letters-attributes-theme-vector-illustration_1284-79357.jpg?t=st=1718130464~exp=1718134064~hmac=f45bbd60a23c71fb41a10809c7662c9747bf34cc6e5c71e47ca2e831d754a060&w=1380" alt="AI Banner" width="1200" />
+  <img src="https://img.freepik.com/free-vector/artificial-intelligence-flat-text-composition-with-design-letters-attributes-theme-vector-illustration_1284-79357.jpg?t=st=1718130464~exp=1718134064~hmac=f45bbd60a23c71fb41a10809c7662c9747bf34cc6e5c71e47ca2e831d754a060&w=1380" alt="AI Banner" length="200" width="600"  />
 </p>
 
 <p align="center">
@@ -30,6 +30,8 @@ A comprehensive MLOps project that bridges the gap between machine learning mode
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ## 🚀 I want to learn...
@@ -37,12 +39,10 @@ A comprehensive MLOps project that bridges the gap between machine learning mode
 - **Large Language Models (LLM)** 📝
 - **LLMOps**: Operationalizing large language models for scalable AI solutions ⚙️
 
-## 📈 My Projects
-- **Machine Learning Models**: Implementing and fine-tuning various machine learning algorithms.
-- **Data Analysis**: Extracting insights from data using Python and visualization tools.
-- **Web Scraping**: Utilizing BeautifulSoup for gathering data from web sources.
-- **Deep Learning Applications**: Building neural networks with TensorFlow and PyTorch.
-
+## 🔭 Github Status...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prasad7007&show_icons=true&theme=radical" alt="Prasad's GitHub Stats" />
+</p>
 
 ## 🌐 Connect with Me
 <p align="center">
@@ -57,14 +57,6 @@ A comprehensive MLOps project that bridges the gap between machine learning mode
   </a>
 </p>
 
-## ✨ Highlights
-- **Kaggle Competitions**: Participating and excelling in machine learning competitions.
-- **Open Source Contributions**: Contributing to open-source projects in the AI/ML space.
-- **Tech Blogs**: Writing insightful articles on machine learning and MLOps.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasad7007&show_icons=true&theme=radical" alt="Prasad's GitHub Stats" />
-</p>
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss any exciting ideas.
 
