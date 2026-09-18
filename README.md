@@ -1,63 +1,186 @@
-# Hi there 👋
+# Hi, I'm Prasad Agalave 👋
 
-Welcome to my GitHub profile! I'm Prasad, a passionate machine learning enthusiast and an aspiring MLOps engineer. My journey in the world of data and AI has been exhilarating, and I'm excited to share my projects and learnings with you.
+### AI & Backend Engineer | Python | FastAPI | AWS | Agentic AI
 
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/artificial-intelligence-flat-text-composition-with-design-letters-attributes-theme-vector-illustration_1284-79357.jpg?t=st=1718130464~exp=1718134064~hmac=f45bbd60a23c71fb41a10809c7662c9747bf34cc6e5c71e47ca2e831d754a060&w=1380" alt="AI Banner" length="200" width="600"  />
+I'm a Computer Science & AI/ML graduate interested in building **production AI systems, scalable backend services, and intelligent applications**.
+
+I enjoy solving real engineering problems — from designing APIs and databases to building AI workflows and deploying applications on cloud infrastructure.
+
+---
+
+## 🚀 About Me
+
+* 💻 Experience building **production AI & backend systems**
+* 🤖 Interested in **Agentic AI, LLMs, Backend Engineering & Distributed Systems**
+* ⚡ Worked with **FastAPI, React, PostgreSQL, Docker, CI/CD, AWS & GCP**
+* 🧠 Built multi-agent systems using **LangGraph & LangChain**
+* 🏆 1st place in an Inter-College Hackathon for **AI Interview Mocker**
+* 🧩 Solved **520+ LeetCode problems**
+* 📈 Max LeetCode Rating: **1580**
+* 🌱 Currently learning **System Design, Go, Distributed Systems & AI Engineering**
+
+---
+
+## 💼 Experience
+
+### AI & Backend Engineer — ElevateTrust.ai
+
+Worked on a production AI-powered compliance platform.
+
+* Improved compliance detection accuracy from **65% → 85%**
+* Reduced AI processing latency from **3s → 1.5s**
+* Built backend APIs and workflows using **FastAPI**
+* Implemented **async processing, idempotency & deduplication**
+* Worked with **PostgreSQL, Redis, Docker & CI/CD**
+* Deployed services using **AWS ECS, EC2 & RDS**
+* Worked with **AWS Bedrock & GCP Vertex AI**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" alt="AI Gif" width="350" />
+### Backend & Web
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-## 🔭 I’m currently working on...
-A comprehensive MLOps project that bridges the gap between machine learning models and their deployment in production. Stay tuned for some exciting updates!
+### AI & ML
 
-## 🌱 I’m currently learning...
-- **Deep Learning**: Exploring advanced neural networks and architectures.
-- **MLOps**: Mastering the tools and techniques for seamless machine learning operations.
-- **SQL**: Diving deep into databases for efficient data management.
-
-## 🛠️ Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-239120?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-2F855A?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
 </p>
 
-## 🚀 I want to learn...
-- **Generative AI**: Especially in Computer Vision 🖼️
-- **Large Language Models (LLM)** 📝
-- **LLMOps**: Operationalizing large language models for scalable AI solutions ⚙️
+### Cloud & DevOps
 
-## 🔭 Github Status...
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasad7007&show_icons=true&theme=radical" alt="Prasad's GitHub Stats" />
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 🌐 Connect with Me
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 Multi-Agent Code Generation System
+
+Built a multi-agent system using **LangGraph, LangChain, Groq, Pydantic & Python**.
+
+**Ask → Plan → Architect → Code**
+
+Implemented state-machine orchestration and structured outputs for reliable communication between agents.
+
+### 📚 ArXiv Paper Search Platform
+
+Built a semantic research-paper search platform using:
+
+**FastAPI · React · Word2Vec · Pinecone · Airflow · LangChain · PostgreSQL**
+
+* Semantic paper search
+* Embedding-based retrieval
+* Automated data ingestion
+* AI-generated summaries
+* Search history and bookmarks
+
+### 🎤 AI Interview Mocker
+
+Built an AI-powered interview platform using:
+
+**Next.js · React · LLMs · Speech-to-Text · Text-to-Speech · Drizzle ORM**
+
+* Dynamic interview questions
+* AI-generated feedback
+* Voice-based interviews
+* Candidate-specific interview sessions
+
+🏆 **1st Place — Inter-College Hackathon**
+
+### 💳 Solana Wallet
+
+Built a decentralized wallet using:
+
+**Next.js · Solana Web3.js · Prisma · AWS**
+
+Implemented wallet generation, multiple accounts, transactions, QR-based receiving and token management.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=Prasad7007&theme=tokyonight" alt="Prasad's GitHub Stats" />
+  </a>
+</p>
+
+---
+
+## 🧩 Problem Solving
+
+* 💻 **520+ LeetCode problems solved**
+* 📈 **Max Rating: 1580**
+* 🧠 Regularly practicing **DSA, Algorithms & System Design**
+
+---
+
+## 🌱 Currently Exploring
+
+* Distributed Systems
+* System Design
+* Go
+* Agentic AI
+* LLM Evaluation
+* Production AI Infrastructure
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/prasad-agalave-2a7b001b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://x.com/AgalavePrasad">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:prasadagalave0007gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  <a href="mailto:prasadagalave0007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+---
 
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss any exciting ideas.
-
-Happy Coding! 🚀
+<p align="center">
+  <b>Building scalable backend systems and intelligent AI products 🚀</b>
+</p>
