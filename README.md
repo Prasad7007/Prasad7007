@@ -17,7 +17,7 @@ I enjoy solving real engineering problems — from designing APIs and databases 
 * 🏆 1st place in an Inter-College Hackathon for **AI Interview Mocker**
 * 🧩 Solved **520+ LeetCode problems**
 * 📈 Max LeetCode Rating: **1580**
-* 🌱 Currently learning **System Design, Go, Distributed Systems & AI Engineering**
+* 🌱 Currently exploring **System Design, Go, Distributed Systems & AI Engineering**
 
 ---
 
@@ -134,13 +134,44 @@ Implemented wallet generation, multiple accounts, transactions, QR-based receivi
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
+
+### ⚡ Overall GitHub Stats
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=Prasad7007&theme=tokyonight" alt="Prasad's GitHub Stats" />
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=Prasad7007&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+      alt="Prasad's GitHub Stats"
+    />
   </a>
 </p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Prasad7007&theme=tokyonight&hide_border=true"
+    alt="Prasad's GitHub Streak"
+  />
+</p>
+
+---
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prasad7007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+      alt="Prasad's Top Languages"
+    />
+  </a>
+</p>
+
+> Language statistics represent the code available in my GitHub repositories and do not necessarily represent my overall skill level.
 
 ---
 
@@ -166,6 +197,7 @@ Implemented wallet generation, multiple accounts, transactions, QR-based receivi
 ## 🌐 Connect With Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/prasad-agalave-2a7b001b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -177,6 +209,7 @@ Implemented wallet generation, multiple accounts, transactions, QR-based receivi
   <a href="mailto:prasadagalave0007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
 
 ---
